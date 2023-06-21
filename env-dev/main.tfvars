@@ -12,5 +12,7 @@ parameters=[
   {name= "dev.user.mongo_url", value= "mongodb://mongodb-dev.msdevops72.online:27017/users"},
   {name= "dev.cart.redis_host", value= "redis-dev.msdevops72.online"},
   {name= "dev.cart.catalogue_host", value= "catalogue-dev.msdevops72.online"},
-  {name= "dev.cart.catalogue_port", value= "8080"}
+  {name= "dev.cart.catalogue_port", value= "8080"},
+  {name= "dev.shipping.cart_endpoint", value= "cart-dev.msdevops72.online:8080"},
+  {name= "dev.shipping.db_host", value= "mysql-dev.msdevops72.online"}
 ]
