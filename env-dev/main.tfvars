@@ -16,5 +16,5 @@ parameters=[
   {name= "dev.shipping.cart_endpoint", value= "cart-dev.msdevops72.online:8080"},
   {name= "dev.shipping.db_host", value= "mysql-dev.msdevops72.online"},
   {name= "dev.shipping.user", value= "root"},
-  {name= "dev.shipping.password", value= "Roboshop@1"}
+  {name= "dev.shipping.password", value= "RoboShop@1"}
 ]
