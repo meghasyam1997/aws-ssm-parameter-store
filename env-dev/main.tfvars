@@ -22,7 +22,6 @@ parameters=[
   {name= "dev.payment.user_port", value= "8080"},
   {name= "dev.payment.amqp_host", value= "rabbitmq-dev.msdevops72.online"},
   {name= "dev.payment.amqp_user", value= "roboshop"}
-
 ]
 
 passwords=[
